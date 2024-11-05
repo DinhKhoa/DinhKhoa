@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dinh Khoa
 - 👀 I’m interested in everything about IT
 - 🌱 I’m currently learning code from @BuiVanHoa =)) 
-- 💌 How to reach me: khoadeptrai07@gmail.com
+- 💌 How to reach me: nguyendinhkhoa.070925.dn@gmail.com
 - ⚡ Fun fact: I code not good but I think I will try hard :Đ
 
 
