@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dinh Khoa
 - 👀 I’m interested in everything about IT
-- 🌱 I’m currently learning code from @BuiVanHoa =)) 
+- 🌱 I’m currently learning code from @BuiVanHoa 👨‍💻
 - 💌 How to reach me: nguyendinhkhoa.070925.dn@gmail.com
-- ⚡ Fun fact: I code not good but I think I will try hard :Đ
+- ⚡ Fun fact: I code not good but I think I will try hard
 
 
 <h3 align="left">Languages and Tools:</h3>
