@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything about IT
 - 🌱 I’m currently learning code from @BuiVanHoa 👨‍💻
 - 💌 How to reach me: nguyendinhkhoa.070925.dn@gmail.com
-- ⚡ Fun fact: I code not good but I think I will try hard
+- ⚡ Fun fact: I code not good but I think I'll try hard
 
 
 <h3 align="left">Languages and Tools:</h3>
