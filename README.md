@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything about IT
 - 🌱 I’m currently learning code with @BuiVanHoa 👨‍💻
 - 💌 How to reach me: nguyendinhkhoa.070925.dn@gmail.com
-- ⚡ Fun fact: I code not good but I think I'll try hard
+- 🧑‍💻 Fun fact: I code not good but I think I'll try hard
 
 <a href="https://app.daily.dev/dkhoaend"><img src="https://api.daily.dev/devcards/v2/HhBdruTaOKeWaufOjCDep.png?type=default&r=i3q" width="356" alt="Nguyễn Đình Khoa's Dev Card"/></a>
 
